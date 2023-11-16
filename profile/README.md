@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This project has been temporarily stopped.
+
 <!--
 
 **Here are some ideas to get you started:**
